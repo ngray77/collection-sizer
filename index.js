@@ -26,7 +26,7 @@ var object = {
     }
 }
 
-function analyzeCollection(){
+function analyzeStaticObjects(){
     var statsTree = {name:"root"};
     analyzeObj(statsTree, object);
     analyzeObj(statsTree, object);
@@ -82,4 +82,4 @@ function recurseObj(statsNode, obj, stack) {
     }
 }
 
-analyzeCollection();
+analyzeStaticObjects();
