@@ -1,0 +1,15 @@
+{
+  "name": "collection-sizer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Noah Gray <ngray@launchps.com>",
+  "license": "ISC",
+  "dependencies": {
+    "object-sizeof": "^1.6.1"
+  }
+}

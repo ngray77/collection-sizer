@@ -1,0 +1,48 @@
+{
+  "name": "root",
+  "children": [
+    {
+      "name": "aProperty",
+      "children": [
+        {
+          "name": "aSetting1",
+          "value": 224
+        },
+        {
+          "name": "aSetting2",
+          "value": 224
+        },
+        {
+          "name": "aSetting3",
+          "value": 224
+        },
+        {
+          "name": "aSetting4",
+          "value": 224
+        },
+        {
+          "name": "aSetting5",
+          "value": 224
+        }
+      ]
+    },
+    {
+      "name": "bProperty",
+      "children": [
+        {
+          "name": "bSetting2",
+          "value": 272
+        }
+      ]
+    },
+    {
+      "name": "cProperty",
+      "children": [
+        {
+          "name": "cSetting",
+          "value": 256
+        }
+      ]
+    }
+  ]
+}
